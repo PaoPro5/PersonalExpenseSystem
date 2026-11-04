@@ -24,8 +24,8 @@ PersonalExpenseSystem/
 
 ## Requisiti per l'esecuzione
 
-- **Interprete:** Python **3.10 o superiore**, perché il menu usa `match`/`case`, l'equivalente Python dello `switch`.
-  Puoi controllare la versione con `python --version`.
+- **Interprete:** Python **3.10 o superiore**.
+                  Controllare la propria versione con `python --version` o. `python3 --version`.
 - **Librerie:** servono solo moduli della libreria standard Python, quindi non c'è niente da installare:
   - `sqlite3`: accesso al database SQLite
   - `datetime`: validazione delle date
